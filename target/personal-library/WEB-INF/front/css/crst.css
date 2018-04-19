@@ -1,0 +1,71 @@
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+.errorMessage{
+    text-align: center;
+    color: maroon;
+    font-size: 19px;
+}
+.pageHead {
+    text-align: center;
+    color: firebrick;
+    position: relative;
+    background-color: bisque;
+    padding: 2px;
+}
+
+
+
+
+#loginName {
+    text-align: right;
+    color: darkslategrey;
+    padding-right:  10px;
+}
+
+#addButton {
+    margin: 0 0 5px 0;
+    padding: 2px;
+}
+
+#logoutButton{
+    color: darkslategrey;
+    text-align: center;
+
+
+}
+.centerText{
+    text-align: center;
+}
+
+.titleWidth{
+    width: 35%;
+}
+
+.emptyList{
+    color: darkslategrey;
+    text-align: center;
+}
+
+
+
+th, td {
+    width: max-content;
+    padding: 10px;
+}
